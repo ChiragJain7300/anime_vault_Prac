@@ -1,9 +1,13 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+## Anime Vault
+Anime Vault is a web application that allows users to explore and search for their favorite anime series. It provides an intuitive interface with real-time search functionality and detailed anime information.
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+## Features
+- 🔍 Search Anime: Quickly find anime by title.
+- 📖 Detailed Information: View anime descriptions, ratings, and more.
+- 🎨 User-Friendly UI: A clean and responsive design for a seamless experience.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
-
+## Tech Stack
+- Frontend: React.js, Next.js
+- Backend: Node.js, Express.js
+- Styling: Tailwind CSS
+- API: ```Shikimori.one``` for anime data fetching
